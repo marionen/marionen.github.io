@@ -1,0 +1,25 @@
+h1{
+    color: white;
+    text-shadow: 1px 1px 1px #666666;
+    
+}
+
+h2{
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 1%;
+    box-shadow: 2px 2px 5px #666666;
+    text-shadow: 1px 1px 1px #666666;
+    border-radius: 20px/50%;
+}
+
+body{
+    background-image:url(https://www.falera.net/wp-content/uploads/2015/02/Danuser-1-1500x430.jpg) ;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
